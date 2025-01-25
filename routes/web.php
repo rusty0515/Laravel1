@@ -7,11 +7,3 @@ Route::get('/', function () {
 });
 
  
-route::get('/dashboard', function () {
-    return view('dashboard');
-});
-
-Route::get('/login', function () {
-    return view('login');
-});
-//sfsfskfjskfskfhshfsh
